@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.SignalR;
-using ToDoList_SignaIR.Models;
 
 namespace ToDoList_SignaIR.Hubs
 {
